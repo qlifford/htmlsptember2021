@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="901fb7f5-60d1-4df9-973b-5b376a4a283a" name="Default Changelist" comment="" />
+    <list default="true" id="901fb7f5-60d1-4df9-973b-5b376a4a283a" name="Default Changelist" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,11 +59,34 @@
       <workItem from="1631864206009" duration="1525000" />
       <workItem from="1632119710990" duration="3349000" />
       <workItem from="1632126387900" duration="2188000" />
-      <workItem from="1632207299806" duration="1292000" />
+      <workItem from="1632207299806" duration="1652000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1632208847163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632208847163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

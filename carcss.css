@@ -1,0 +1,13 @@
+.Nissan{
+    color: darkred;
+    font-family: "Dubai Light";
+}
+.Subaru{
+    color: black;
+    font-style: oblique;
+
+}
+.Toyota{
+    color: #e86807;
+    background-color: blueviolet;
+}
